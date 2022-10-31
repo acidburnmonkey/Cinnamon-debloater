@@ -6,7 +6,7 @@
 -I'll make this nicer on python when i get time.
 
 # To run in terminal
-1 sudo chmod +x cinnamon-debloater.sh
+1 sudo chmod +x cinnamon-debloater.sh \
 2  ./cinnamon-debloater.sh
 
 
