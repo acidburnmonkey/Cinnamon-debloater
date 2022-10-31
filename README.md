@@ -1,8 +1,6 @@
 # Cinnamon-debloater v000.1
  This simple sctipt removes cinnamon desktop default bloat apps and icon/ themes pack
  
->> If you are  uing Fedora simply change | dnf remove |  for | apt purge | in line 3
-
 -I'll make this nicer on python when i get time.
 
 # To run in terminal
