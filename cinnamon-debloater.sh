@@ -1,7 +1,7 @@
 #Cinnamon desktop debloater
 
 #apps deleted 
-sudo dnf remove hexchat transmission hypnotix rhythmbox warpinator xfburn pidgin xawtv
+sudo apt purge hexchat transmission hypnotix rhythmbox warpinator xfburn pidgin xawtv
 
 #delete mint default icons and themes
 sudo rm -r -v /usr/share/icons/Mint* /usr/share/icons/Ubuntu*
