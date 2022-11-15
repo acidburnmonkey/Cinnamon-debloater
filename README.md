@@ -1,7 +1,7 @@
 # Cinnamon-debloater v000.1
  This simple sctipt removes cinnamon desktop default bloat apps and icon/ themes pack
  
--I'll make this nicer on python when i get time.
+Read the apps is removing before using it duh
 
 # To run in terminal
 1 sudo chmod +x cinnamon-debloater.sh \
