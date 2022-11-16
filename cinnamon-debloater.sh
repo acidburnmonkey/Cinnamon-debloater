@@ -9,9 +9,8 @@ if  command -v apt &> /dev/null; then
   sudo apt purge -v remove hexchat transmission hypnotix rhythmbox warpinator xfburn pidgin xawtv   
 fi
 
-
-#delete mint default icons and themes
+  #delete mint default icons and themes
 sudo rm -r  /usr/share/icons/Mint* /usr/share/icons/Ubuntu*
-#delete mint themes
+  #delete mint themes
 sudo rm -r /usr/share/themes/Mint*
 
