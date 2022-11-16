@@ -8,7 +8,7 @@
 
 (Edit the ones you wan to keep)
 
-> Mint custom icons , Ubuntu themes and icons , Cinnamon themes and icons  
+> Mint default  icons , Ubuntu themes and icons , Cinnamon themes and icons  
 
 # To run in terminal
 1 sudo chmod +x cinnamon-debloater.sh \
