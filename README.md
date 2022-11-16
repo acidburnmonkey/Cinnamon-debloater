@@ -4,7 +4,8 @@
  
 ## The following packages will be removed:
 
-> hexchat transmission hypnotix rhythmbox warpinator xfburn pidgin xawtv   \
+> hexchat transmission hypnotix rhythmbox warpinator xfburn pidgin xawtv 
+
 (Edit the ones you wan to keep)
 
 > Mint custom icons , Ubuntu themes and icons , Cinnamon themes and icons  
