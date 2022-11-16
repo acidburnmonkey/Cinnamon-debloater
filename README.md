@@ -1,7 +1,13 @@
 # Cinnamon-debloater v1
  This simple sctipt removes cinnamon desktop default bloat apps and icon/ themes pack
  
-Read the programs is removing before using it duh
+ 
+## The following packages will be removed:
+
+> hexchat transmission hypnotix rhythmbox warpinator xfburn pidgin xawtv   
+(Edit the ones you wan to keep)
+
+> Mint custom icons , Ubuntu themes and icons , Cinnamon themes and icons  
 
 # To run in terminal
 1 sudo chmod +x cinnamon-debloater.sh \
